@@ -1,7 +1,8 @@
-echo "Enter Num1"
+echo "Enter a"
 read num1
-echo "Enter Num2"
+echo "Enter b"
 read num2
-echo "Enter Num3"
+echo "Enter c"
 read num3
 
+echo " num1 + num2 * num3= $((num1 + num2 * num3))"
