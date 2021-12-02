@@ -28,3 +28,7 @@ echo ${expression[fourth]}
 for i in expression; do
     echo ("Printing the numbers in descending order: $i")
 done
+
+for i in expression; do
+    echo ("Printing the numbers in ascending order: $i")
+done
