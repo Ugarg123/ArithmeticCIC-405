@@ -6,3 +6,4 @@ echo "Enter c"
 read num3
 
 echo " num1 + num2 * num3= $((num1 + num2 * num3))"
+echo " num1 * num2 + num3= $((num1 * num2 + num3))"
