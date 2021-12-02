@@ -24,3 +24,7 @@ echo ${expression[first]}
 echo ${expression[second]}
 echo ${expression[third]}
 echo ${expression[fourth]}
+
+for i in expression; do
+    echo ("Printing the numbers in descending order: $i")
+done
